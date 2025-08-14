@@ -5,8 +5,7 @@
 body {
 	text-align: justify;
 	max-width: 600px;
-	margin: auto;
-	padding: 50px;
+	margin: 50px;
 	background-image: url(trees.png);
 	color: #fff;
 }
@@ -14,12 +13,12 @@ body {
 nav {
 	background-color: rgba(84, 82, 18);
 	font-size: 1.5em;
+	text-align: center;
 }
 
 nav a {
 	color: #fff;
-	background-color: rgba(36, 85, 18);
-	text-align: center;
+	background-color: rgb(23, 55, 12);
 }
 
 a:hover {

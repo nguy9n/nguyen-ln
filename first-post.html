@@ -1,9 +1,9 @@
 <!doctype html>
-<html lang=${LANG%%_*}>
+<html lang=en>
 
 <title>nguyen-ln's place</title>
 
-<meta charset=${LANG##*.}>
+<meta charset=UTF-8>
 <meta name=viewport content='width=device-width, initial-scale=1'>
 
 
@@ -14,9 +14,39 @@
 </head>
 
 <style>
-#!
-pp "${SHARE:?no theme directory set}"/s.uppcss
-#!
+* {
+	font-family: Outfit, sans-serif;
+	margin: auto;
+	max-width: 600px;
+	padding: 10px;
+}
+
+body {
+	text-align: justify;
+	background-image: url(trees.png);
+	color: #fff;
+}
+
+nav {
+	background-color: rgba(84, 82, 18);
+	font-size: 1.1em;
+	text-align: center;
+}
+
+nav a {
+	color: #fff;
+	background-color: rgba(23, 55, 12, 0.5);
+	text-decoration: none;
+}
+
+a:hover {
+	font-weight: bold;
+}
+
+p {
+	background-color: rgba(84, 82, 18, 0.5);
+}
+
 </style>
 
 <header>
@@ -28,7 +58,7 @@ pp "${SHARE:?no theme directory set}"/s.uppcss
 	</nav>
 </header>
 
-#!
-pp "$1"
-#!
+<h1>hello there!</h1>
+<p>testing... testing... one two three...</p>
+
 

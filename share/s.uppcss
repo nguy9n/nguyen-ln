@@ -13,13 +13,14 @@ body {
 
 nav {
 	background-color: rgba(84, 82, 18);
-	font-size: 1.5em;
+	font-size: 1.1em;
 	text-align: center;
 }
 
 nav a {
 	color: #fff;
-	background-color: rgb(23, 55, 12);
+	background-color: rgba(23, 55, 12, 0.5);
+	text-decoration: none;
 }
 
 a:hover {

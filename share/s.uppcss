@@ -1,8 +1,10 @@
+* {
+	font-family: Outfit, sans-serif;
+}
+
 body {
 	text-align: justify;
-	text-size: 18px;margin: 500;
-	padding: 10;
-	border: none;
-	font-family: Outfit, sans-serif;
+	max-width: 1500px;
+	margin: auto;
 }
 

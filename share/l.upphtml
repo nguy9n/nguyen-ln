@@ -19,6 +19,17 @@ pp "${SHARE:?no theme directory set}"/s.uppcss
 #!
 </style>
 
+<header>
+	<nav>
+		<ul>
+			<a href=/>home</a>
+			<a href=about.html>about</a>
+			<a href=blog.html>blog</a>
+			<a href=https://github.com/nguy9n/nguyen-ln>github</a>
+		</ul>
+	</nav>
+</header>
+
 #!
 pp "$1"
 #!

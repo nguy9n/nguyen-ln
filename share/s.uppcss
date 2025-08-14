@@ -1,7 +1,8 @@
 * {
 	font-family: Outfit, sans-serif;
+	margin: auto;
 	max-width: 600px;
-	padding: 50px;
+	padding: 10px;
 }
 
 body {

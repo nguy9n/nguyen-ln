@@ -1,11 +1,11 @@
 * {
-  margin: 0;
-  padding: 0;
-  border: none;
-  font-family: Arial, sans-serif;
+	margin: 500px;
+	padding: 0;
+	border: none;
+	font-family: "Outfit", sans-serif;
 }
 
 body {
-  font-size: 14px;
+	text-align: justify;
 }
 

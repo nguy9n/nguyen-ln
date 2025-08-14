@@ -1,11 +1,11 @@
 * {
 	font-family: Outfit, sans-serif;
+	max-width: 600px;
+	padding: 50px;
 }
 
 body {
 	text-align: justify;
-	max-width: 600px;
-	margin: 50px;
 	background-image: url(trees.png);
 	color: #fff;
 }

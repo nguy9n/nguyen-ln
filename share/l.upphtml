@@ -21,12 +21,10 @@ pp "${SHARE:?no theme directory set}"/s.uppcss
 
 <header>
 	<nav>
-		<ul>
-			<a href=/>home</a>
-			<a href=about.html>about</a>
-			<a href=blog.html>blog</a>
-			<a href=https://github.com/nguy9n/nguyen-ln>github</a>
-		</ul>
+		<a href=/>home</a>
+		<a href=about.html>about</a>
+		<a href=blog.html>blog</a>
+		<a href=https://github.com/nguy9n/nguyen-ln>github</a>
 	</nav>
 </header>
 

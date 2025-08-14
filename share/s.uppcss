@@ -1,11 +1,12 @@
 * {
-	margin: 500px;
-	padding: 0;
+	margin: 10;
+	padding: 10;
 	border: none;
 	font-family: "Outfit", sans-serif;
 }
 
 body {
 	text-align: justify;
+	text-size: 18px;
 }
 

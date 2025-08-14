@@ -4,21 +4,22 @@
 
 body {
 	text-align: justify;
-	max-width: 500px;
+	max-width: 600px;
 	margin: auto;
-	padding: 10px;
+	padding: 20px;
 	background-image: url(trees.png);
 	color: #fff;
 }
 
 nav {
-	background-color: rgb(128, 135, 23);
-	font-size: 2em;
+	background-color: rgba(84, 82, 18, 0.5);
+	font-size: 1.5em;
 }
 
 nav a {
 	color: #fff;
-	background-color: rgb(35, 135, 23);
+	background-color: rgba(36, 85, 18, 0.5);
+	text-align: center;
 }
 
 a:hover {
@@ -26,6 +27,6 @@ a:hover {
 }
 
 p {
-	background-color: rgba(128, 135, 23, 0.5);
+	background-color: rgba(84, 82, 18, 0.5);
 }
 

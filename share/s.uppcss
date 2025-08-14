@@ -6,19 +6,19 @@ body {
 	text-align: justify;
 	max-width: 600px;
 	margin: auto;
-	padding: 20px;
+	padding: 50px;
 	background-image: url(trees.png);
 	color: #fff;
 }
 
 nav {
-	background-color: rgba(84, 82, 18, 0.5);
+	background-color: rgba(84, 82, 18);
 	font-size: 1.5em;
 }
 
 nav a {
 	color: #fff;
-	background-color: rgba(36, 85, 18, 0.5);
+	background-color: rgba(36, 85, 18);
 	text-align: center;
 }
 
